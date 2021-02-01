@@ -215,7 +215,7 @@
 			this.ClientSize = new System.Drawing.Size(784, 561);
 			this.Controls.Add(this.sptOuter);
 			this.Name = "Main";
-			this.Text = "Main";
+			this.Text = "Reddit: The front page of the internet";
 			this.sptOuter.Panel1.ResumeLayout(false);
 			this.sptOuter.Panel2.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.sptOuter)).EndInit();
